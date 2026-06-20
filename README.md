@@ -1,9 +1,13 @@
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats-fork-chi.vercel.app/api?username=FranceRafaelSalacut&theme=default&show_icons=true&hide_border=true&include_all_commits=true" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FranceRafaelSalacut&theme=default&hide_border=false" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats-fork-chi.vercel.app/api/top-langs/?username=FranceRafaelSalacut&theme=default&show_icons=true&hide_border=false&layout=compact" />
-</a>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fork-chi.vercel.app/api?username=FranceRafaelSalacut&theme=default&show_icons=true&hide_border=true&include_all_commits=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FranceRafaelSalacut&theme=default&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fork-chi.vercel.app/api/top-langs/?username=FranceRafaelSalacut&theme=default&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
